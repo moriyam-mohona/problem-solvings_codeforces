@@ -12,3 +12,6 @@ int main()
    printf("%d", sum);
     return 0;
 }
+
+// input : 351
+// output : 9
