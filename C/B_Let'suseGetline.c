@@ -9,3 +9,10 @@ int main()
     }
     return 0;
 }
+
+// input:  Egyptian collegiate programming\ contest
+// output: Egyptian collegiate programming
+ 
+
+// input: google \or facebook
+// output: google 
